@@ -15,7 +15,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "hhttps://vercel.com/chaima-chellys-projects",
+        "APP_URL": "https://vercel.com/chaima-chellys-projects",
         "APP_KEY": "base64:vj1mUbLpbSDgqkCcQ5eanL31ZEVgLOB2tB2tmwE41hg=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
